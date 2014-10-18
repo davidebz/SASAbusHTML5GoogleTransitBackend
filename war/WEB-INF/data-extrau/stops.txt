@@ -29,7 +29,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 30,Forno-Albergo Foresta,,46.355078,11.634437
 31,Moena-Caserma Carabinieri,,46.369532,11.652359
 32,Moena-Albergo Trentino,,46.373211,11.655352
-33,Moena-Biglietteria,,46.374654,11.657920
+33,Moena-Centro,,46.375846,11.658511
 34,Moena-Pezzè,,46.381214,11.665691
 35,Soraga-Hotel Al Lago,,46.392382,11.666700
 36,Soraga,,46.396748,11.669557
@@ -126,7 +126,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 143,Valle,,46.238605,11.351281
 144,Montalbiano,,46.234426,11.355133
 145,Sicina,,46.230004,11.358752
-532,Trento-Via Giusti-Cimitero,,46.064205,11.119435
+532,Trento-V.Giusti-L. Da Vinci,,46.064205,11.119435
 533,Trento-Via V.Veneto,,46.057701,11.119291
 535,Trento-Via Lorenzoni,,46.058380,11.122963
 537,Trento-Via S.Francesco,,46.066636,11.126202
@@ -249,7 +249,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 676,Pergine-Distr. Tamoil,,46.065170,11.247430
 677,Zivignago,,46.067276,11.252921
 678,Zivignago-Cons.S.Orsola,,46.070153,11.257161
-679,Canezza-Maso Staifer,,46.075901,11.268702
+679,Canezza-Maso Sleifer,,46.075901,11.268702
 682,Canezza,,46.076974,11.274491
 683,Canezza-Dif. Al Sole,,46.080149,11.275946
 684,Canezza-Maso Dràzeri,,46.084557,11.277669
@@ -492,7 +492,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 961,Ponte Fersina,,46.069816,11.223412
 962,Pergine V.-Viale Dante,,46.065908,11.228116
 963,Masetti-Strada Provinciale,,46.052647,11.249267
-965,Levico T.-Alb.Miralago,,46.016044,11.291759
+965,Levico T.-Alb.Miralago,,46.014468,11.294593
 966,Levico Terme-Cimitero,,46.008855,11.316263
 967,Levico Terme-Sp.228,,46.016487,11.330915
 968,Campiello di Levico,,46.019576,11.356679
@@ -525,7 +525,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 998,Pieve Tesino,,46.067684,11.612774
 999,Castello T.-Loc. Al Ponte,,46.070757,11.622036
 1000,Castello T.-Ip,,46.068606,11.625943
-1001,Castello T.-Via Battisti 36,,46.064407,11.628872
+1001,Castello T.-Via Baili,,46.064290,11.628880
 1002,Castello Tesino,,46.064873,11.633294
 1003,Pergine V.-Bivio Susà,,46.056775,11.236747
 1005,S.Cristoforo Al Lago,,46.038778,11.233503
@@ -580,7 +580,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1059,Mezzano-Albergo Salgetti,,46.156242,11.814595
 1060,Mezzano,,46.154591,11.805976
 1061,Imer--Sup. Schlecker,,46.151919,11.800797
-1062,Imer,,46.151018,11.796068
 1063,Masi di Imer,,46.145284,11.785768
 1064,S.Silvestro,,46.131439,11.769023
 1065,Pontet,,46.106741,11.774054
@@ -594,7 +593,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1073,Fonzaso,,46.016660,11.802563
 1074,Arten,,46.008258,11.831188
 1076,Feltre-Gel. La Zuecca,,46.019048,11.893374
-1077,Feltre-Rist.Sole di Napoli,,46.021457,11.904487
 1078,Feltre-Ospedale,,46.021853,11.908009
 1079,Feltre-Staz. Fs,,46.012749,11.910851
 1080,Feltre-Staz. Fs,,46.012491,11.910304
@@ -626,7 +624,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1107,Susa',,46.051111,11.223539
 1108,Trento-C.So Tre Novembre,,46.062416,11.123713
 1109,Trento-Viale Verona,,46.056531,11.128456
-1110,Trento-Distretto,,46.052748,11.129803
+1110,Trento-S.Bartolameo,,46.052748,11.129803
 1111,Trento Viale Verona Big Center,,46.045090,11.130933
 1112,Trento-Man,,46.036737,11.130338
 1113,Mattarello-Loc.Ronchi,,46.017259,11.132495
@@ -644,7 +642,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1125,Rovereto-V.Le Trento,,45.900157,11.041998
 1126,Rovereto-Via Manzoni,,45.892473,11.038426
 1127,Rovereto-Staz.F.S.,,45.890326,11.033849
-1128,Rovereto-Difr.Rist.Cristina,,45.884107,11.032630
+1128,Rovereto-Difr.Rist.Cristina,,45.881366,11.031860
 1129,Lizzanella,,45.874533,11.031686
 1130,Lizzanella-Bar Verona,,45.872773,11.024339
 1131,Centro Commerciale Millenium,,45.868790,11.014188
@@ -657,7 +655,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1138,Loppio,,45.855726,10.929794
 1139,Passo S.Giovanni,,45.874042,10.906461
 1140,Nago,,45.878476,10.890669
-1141,Torbole,,45.870887,10.875764
+1141,Torbole,,45.871053,10.875512
 1142,Linfano Bivio,,45.875583,10.871503
 1143,Riva V.Rovereto H.Brione,,45.880111,10.856036
 1144,Riva V.Rovereto H.Du Lac,,45.883055,10.852641
@@ -694,7 +692,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1175,Ravazzone di Mori,,45.858717,10.990649
 1177,Lizzanella-Bar Verona,,45.872694,11.024273
 1178,Lizzanella,,45.874361,11.031758
-1179,Rovereto-Rist.Cristina,,45.883028,11.032565
+1179,Rovereto-Rist.Cristina,,45.881389,11.032067
 1180,Rovereto-Staz.F.S.,,45.890243,11.034030
 1181,Rovereto-V.Le Trento,,45.900353,11.042123
 1182,S.Ilario,,45.908367,11.040784
@@ -849,9 +847,10 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1536,Trento-Via M.Baldo,,46.057536,11.117437
 1538,Varone Alberello,,45.907214,10.840333
 1539,Varone Via Ballino 14,,45.904369,10.842057
-1540,Varone-Sc.Alberghiera,,45.901560,10.844310
+1540,Varone-Sc.Alberghiera,,45.901978,10.844040
 1541,Albola,,45.897666,10.844129
 1542,Riva D/Garda V.Le Dei Tigli 21,,45.892365,10.842948
+1544,Varone Sc.Alberghiera,,45.901569,10.844310
 1545,Varone Cascata,,45.911926,10.837202
 1546,Cologna-Alb.Panorama,,45.915416,10.847131
 1547,Ballino,,45.965776,10.811609
@@ -871,7 +870,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1564,Madice,,46.023864,10.832003
 1565,Marcè Bivio,,46.019261,10.823814
 1566,Cavrasto,,46.017078,10.819855
-1567,Balbido,,46.014205,10.811819
+1567,Balbido,,46.014584,10.810887
 1568,Rango,,46.018187,10.811832
 1569,Cavaione,,46.022570,10.819804
 1570,Marazzone,,46.026893,10.820735
@@ -881,7 +880,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1575,Breguzzo-Loc. Petò,,46.018713,10.711183
 1576,Breguzzo-Corè,,46.015355,10.707604
 1577,Breguzzo,,46.009294,10.699435
-1578,Breguzzo-Hotel Carlone,,46.006364,10.697937
 1579,Bondo,,46.000242,10.692876
 1580,Pra' di Bondo,,45.996292,10.690680
 1581,Prà di Bondo-Falegnameria,,45.990894,10.685662
@@ -919,6 +917,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1618,Tione-Hotel Milano,,46.029118,10.723754
 1619,Polin,,46.026806,10.720064
 1620,Breguzzo,,46.009868,10.700202
+1621,Breguzzo-Hotel Carlone,,46.006364,10.697912
 1622,Bondo,,46.000001,10.692832
 1623,Prà di Bondo,,45.996469,10.690919
 1624,Roncone,,45.984559,10.672081
@@ -961,7 +960,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1665,Lago Nembia,,46.096096,10.932585
 1666,Lago Nembia-Casa Enel,,46.107358,10.943027
 1669,Molveno-Centro,,46.142420,10.963759
-1670,Molveno-Lido Lago,,46.140743,10.962853
+1670,Molveno-Lido Lago,,46.140431,10.963727
 1671,Molveno-Hotel Du Lac,,46.141236,10.965607
 1672,Molveno-Grand Hotel,,46.134919,10.970224
 1673,Lago Nembia,,46.095952,10.933324
@@ -1131,7 +1130,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1860,Tenna-Bivio Pontara Serafini,,46.023291,11.261980
 1861,Tenna-Sp 16 Al Km 4,,46.017113,11.266271
 1863,Tenna,,46.012780,11.266696
-1865,Rovereto-Aut.-V.Paoli,,45.891146,11.039910
+1865,Rovereto-Via Paoli,,45.892694,11.040162
 1866,Rovereto-Via Craffonara,,45.886590,11.034169
 1867,Rovereto-Via Calcinari,,45.886539,11.044667
 1869,Rovereto-Ex Cartiera Ati,,45.887115,11.050652
@@ -1191,7 +1190,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1943,Costa-Hotel Garden,,45.918747,11.186274
 1944,Costa di Folgaria,,45.920179,11.188639
 1945,Bivio Nocchi,,45.919068,11.198434
-1946,Passo Del Sommo,,45.919505,11.206093
+1946,Passo Del Sommo,,45.919566,11.205947
 1947,S.Sebastiano,,45.925010,11.212057
 1948,S.Sebastiano-Sez.Cacciatori,,45.925469,11.214887
 1949,Bivio Cueli,,45.923764,11.216204
@@ -1243,7 +1242,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2002,Chizzola-Sp. 90 Km 16.8,,45.817738,11.003965
 2003,Chizzola-Euromobili,,45.813498,11.008311
 2004,Chizzola,,45.809175,11.008767
-2005,Villetta,,45.806899,11.010719
+2005,Villetta,,45.807112,11.009864
 2006,S.Lucia di Ala,,45.797365,11.015412
 2007,Pilcante-Capitelli,,45.772609,11.001559
 2008,Pilcante-Scuole,,45.770486,11.001247
@@ -1320,7 +1319,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2135,Brentonico-Mobil.Zoller,,45.822387,10.962756
 2136,Sorne,,45.808236,10.953404
 2137,Cazzano,,45.816981,10.969311
-2138,Crosano-Via S.Biagio 21,,45.818968,10.975174
+2138,Crosano-Via S.Biagio 25/27,,45.818934,10.975083
 2141,Crosano-Fam. Coop.,,45.820049,10.975655
 2142,Crosano-Via Mazzini,,45.820615,10.970804
 2145,Cornè Loc. Gai,,45.808687,10.967860
@@ -1330,10 +1329,10 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2159,Stava,,46.315421,11.503413
 2163,Varena-Via Alpini-Dir.Lavazè,,46.307730,11.460137
 2174,Civezzano-Quadrivio,,46.089186,11.185616
-2187,Rovereto-Fs Sud,,45.890065,11.033659
+2187,Rovereto-Fs Sud,,45.890320,11.034004
 2193,Civezzano-Oxford,,46.092559,11.179566
 2194,Virti,,45.945491,11.238625
-2210,Visintainer Bivio,,46.032736,11.267294
+2210,Visintainer Bivio,,46.032037,11.267098
 2211,Falesina,,46.071004,11.277772
 2212,Ivano Fracena,,46.057114,11.528163
 2213,Trento-Via Bezzi,,46.058466,11.119270
@@ -1357,14 +1356,13 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2236,S.Caterina di Pergine,,46.017255,11.227013
 2241,Rocce Rosse,,46.031915,11.045708
 2242,Rov.-C.Rosmini Pt,,45.891069,11.041276
-2243,Rovereto-Via Vannetti,,45.890246,11.035597
-2244,Rov.-C. Rosmini-Monu.,,45.890842,11.043033
+2244,Rovereto-C.Rosmini-Monumento,,45.890842,11.043033
 2246,Cembra-Cimitero,,46.174568,11.217545
 2247,Bosco-Maso Jobstraibizer,,46.113245,11.179416
 2248,Arco-Svizzera,,45.921147,10.891383
 2250,Arco Via S.Caterina,,45.912519,10.875504
 2252,Hacleri,,46.124459,11.339734
-2253,Calvola,,45.926474,10.832019
+2253,Calvola,,45.926361,10.831151
 2254,Aldeno-Maso Canova,,45.964223,11.092597
 2255,Valmesta Bivio Rif.Dismoni,,46.222916,11.808835
 2256,Strigno-Via Roma,,46.063333,11.523678
@@ -1407,7 +1405,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2305,S.Giorgio Incr. Circonvall.,,45.908116,10.877805
 2306,Arco Via Mantova 1,,45.909906,10.879503
 2307,Arco Via Mantova 21,,45.912913,10.882712
-2308,Arco Via Mantova Poste,,45.916064,10.884856
+2308,Arco Via Monache Poste,,45.916064,10.884856
 2309,Varone Via Venezia/Sega,,45.908163,10.845083
 2310,Varone Via Venezia/Ferrari,,45.908613,10.842274
 2313,Riva V.Rovereto Vv.Ff.,,45.884007,10.851075
@@ -1603,7 +1601,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2567,Nanno,,46.314835,11.047438
 2568,Portolo,,46.303254,11.059854
 2569,Cles-Piazza Chiesa,,46.364641,11.036415
-2570,Tassullo,,46.341056,11.053745
 2571,Trento Nord-Zona Commerciale,,46.09014,11.11306
 2572,Gardolo-Ferrovia,,46.108097,11.104558
 2573,Spini-Zona Industriale,,46.118667,11.104856
@@ -1619,7 +1616,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2587,Segno Ferrovia,,46.304610,11.071497
 2588,Taio Ferrovia,,46.3221,11.06767
 2589,Dermulo Ferrovia,,46.337566,11.063165
-2590,Tassullo Ferrovia,,46.3408,11.05388
+2590,Tassullo Ferrovia,,46.341056,11.053745
 2591,Cles Ferrovia,,46.364542,11.038895
 2592,Cles-Polo Scolastico,,46.36999,11.03374
 2593,Mostizzolo,,46.393921,11.011321
@@ -1841,10 +1838,11 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 3149,Tiarno di Sopra-Sc. Elem.,,45.888920,10.670416
 3154,Pranzo,,45.922618,10.818157
 3155,Pranzo Via Dei Castagni,,45.924838,10.817236
-3156,Pranzo Via Pernici,,45.922592,10.818092
+3156,Pranzo Via Pernici,,45.921378,10.820257
 3160,Campi Bivio Sp 37,,45.925537,10.815170
 3167,P.Arche-Sc.Medie,,46.035620,10.870542
 3172,Favrio,,46.000487,10.856972
+3192,Andogno,,46.066487,10.895390
 3213,Tione-Via Circonvallazione 65,,46.036584,10.728160
 3244,Bocenago-Paese,,46.120707,10.760843
 3248,Porte di Trambileno,,45.883438,11.052388
@@ -1879,7 +1877,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 3786,Siror Centro Sportivo,,46.190727,11.828292
 3805,Mezzocorona Scuole Medie,,46.213267,11.117117
 3806,Mezzolombardo Autostile,,46.206818,11.095894
-3807,Mezzolombardo Sc. Elementare,,46.214108,11.092489
 3808,Mezzolombardo Sc. Media,,46.216559,11.092362
 3809,Mezzolombardo Via Milano,,46.208839,11.093689
 3813,Castelletto di Ton,,46.247143,11.062585
@@ -1913,14 +1910,14 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 3969,Pietramurata-Stab.Mecc.Sarca,,46.025811,10.944803
 3970,Torcegno-Maso Mocchi,,46.073766,11.444568
 3971,Vezzano Sud,,46.076071,10.996890
-3972,Moncovo-Paese,,46.260916,11.062920
+3972,Moncovo-Paese,,46.260329,11.063002
 3974,Trento-Via Sardagna Civ. 104,,46.072035,11.099473
 3981,Primolano-Ex Staz. Fs,,45.965598,11.701749
 3982,S.Margherita-Via Trento,,45.793670,11.022814
 3994,Rovereto C.So Rosmini,,45.890887,11.038602
 3995,Pomarolo-Via Rovereto,,45.923522,11.041614
 3996,Sant'ilario Via Lagarina,,45.910313,11.039879
-4001,Sanzeno Nord-Museo Retico,,46.369289,11.079676
+4001,Sanzeno Nord-Museo Retico,,46.369702,11.080212
 4003,Romeno-Civ. 38,,46.399287,11.127024
 4004,Romeno-Caseificio,,46.401119,11.128721
 4006,Bocenago,,46.116993,10.757671
@@ -1961,9 +1958,11 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4077,Lago di Caveine-Trebi,,45.990709,10.942695
 4078,Lago di Cavedine-Bv.Lastoni,,46.003468,10.956083
 4079,Lago di Cavedine-Civ. 25,,46.007505,10.956884
+4081,Arco-Autostaz.,,45.916407,10.882629
 4082,Aste Basse-Dir. S.Anna,,45.790542,11.096463
 4084,Rovereto C.So Rosmini 61,,45.890963,11.037817
 4086,Rovereto-Parco Ferrari,,45.877911,11.033332
+4088,Mori Via Del Garda. 63,,45.851830,10.972048
 4091,Rovereto-Santuario M.Del Monte,,45.879717,11.041039
 4100,Via Dei Colli-Tornante,,45.888407,11.054878
 4108,Riva V.Le Rovereto Coop,,45.881839,10.854328
@@ -1982,6 +1981,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4155,Feltre Pasquer,,46.021627,11.920064
 4156,S.Francesco-Maso Prigheli,,46.105438,11.314606
 4163,Candriai-Sp 85 Km. 9.4,,46.062236,11.079694
+4164,Zivignago-Paese,,46.066737,11.255123
 4165,Molina di Fiemme-Via Cembra 47,,46.268508,11.410247
 4167,S.Antonio.Di Mav. Maso Mistrin,,46.193516,10.792873
 4178,Rovereto Zona Ind."Luxottica",,45.864912,11.017706
@@ -1997,7 +1997,10 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4216,Cles-Negozio Mascotti,,46.361669,11.037271
 4217,Cles-Ex Bentivoglio,,46.358211,11.037125
 4218,Cles-Ex Dorigoni,,46.352469,11.046660
+4220,Cogolo Bar Miki,,46.352298,10.690519
+4221,Peio Area Faunistica,,46.358569,10.666184
 4224,Volano-Via Des Tor,,45.917441,11.057459
+4227,Banco Sc.Elem.,,46.374812,11.071915
 4228,Rovereto Z.Ind.V.Di Vittorio34,,45.863112,11.020759
 4230,Revò P.Madonna,,46.390909,11.057644
 4232,Lover-Hotel Lover,,46.250121,11.025891
@@ -2139,13 +2142,14 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4640,Campo Tassullo,,46.331168,11.052569
 4664,Nomi-Sp 90 Tre.Cur.T.,,45.935963,11.088317
 4666,Moena-Via Lowy 14-16,,46.376133,11.658577
-4670,Breguzzo-Loc. Fass Civ. 210,,46.011886,10.702447
+4670,Breguzzo-Loc. Fass Civ. 210,,46.011300,10.701938
 4671,Brusago-Via D.Alighieri 12,,46.178452,11.324666
 4678,Vervo'-Scuola Materna,,46.307456,11.121384
 4679,Pergine Vals.-Sc.Garbari,,46.066251,11.229915
 4684,Folgaria-Via Filzi 41,,45.911216,11.180988
 4687,Cembra-Loc. Predole 23/2,,46.169154,11.209925
 4688,Livo-Sp 6 Al Km 6,,46.432701,11.019009
+4690,Cles-V.Delle Scuole-Sc.Medie,,46.365135,11.029348
 4691,Pranzo-Ex Cabina Enel,,45.921613,10.820781
 4693,Cagno'-Terrazza Dei Sapori,,46.393652,11.034126
 4695,Segno-V.Nazionaletrentingrana,,46.299073,11.069600
@@ -2174,6 +2178,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4746,Arco Via Mantova Dif.Cimitero,,45.911738,10.881409
 4747,Riva D/Garda V.Le Dei Tigli 11,,45.890639,10.842853
 4749,Riva Del G Vle Dante Alighieri,,45.886213,10.844356
+4758,Riva Del G. Via E. Modl,,45.893901,10.852615
 4765,Riva Del G. Via Oleandri 24,,45.899534,10.844359
 4780,Vestone,,45.708110,10.403516
 4781,Lavenone,,45.738956,10.437543
@@ -2205,6 +2210,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4832,Ponte Caffaro-Via Caduti 214,,45.825015,10.530160
 4834,Vaneze-Via Del Lavachel,,46.055447,11.072394
 4835,Loc. San Giacomo,,45.813054,10.515905
+4844,Taio Via Roma. 62,,46.316919,11.069182
 4845,Taio Via Roma. 122,,46.315062,11.069839
 4847,S.Barbara,,45.896161,10.940914
 4852,Villini-Via Mendola 5,,46.417827,11.195583
@@ -2222,7 +2228,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4871,Romeno-Via S.Romedio,,46.391671,11.117453
 4874,S.Martino di C.-Via Pezgaiard,,46.259430,11.808832
 4879,Tezze-V. Masetto Vecchio,,45.997899,11.668582
-4880,Mezzolombardo-Sp64 Viadotto,,46.223117,11.081667
+4880,Mezzolombardo-Bivio Fai,,46.223117,11.081667
 4881,Rovereto Via S.Giovanni Bosco,,45.891524,11.041678
 4882,Campi Loc.Zumiani,,45.913493,10.816376
 4886,Bordiana,,46.387216,10.981980
@@ -2234,6 +2240,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 4897,Dovena-Inizio Paese,,46.457487,11.125253
 4898,Denno-Via Marconi 46,,46.272566,11.052235
 4904,Garniga T.-V.Bagni di Fieno 1,,45.999662,11.085768
+4905,Marce' Sp 222 Km 0.650,,46.021054,10.822248
 4916,Nanno-Via Bergamo Civ. 5,,46.319385,11.046685
 4919,Verdesina-Paese,,46.054909,10.713245
 4921,Trentino Trasporti,,46.102234,11.094461
@@ -2284,7 +2291,6 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 5087,M.Do Sc. Sup.Martini,,46.217566,11.093386
 5088,Sabbionara Via De Gasperi,,45.738765,10.952482
 5090,Gionghi-Polo Scolastico,,45.940038,11.268658
-5100,Faedo Maso Cento Finestre,,46.193510,11.144248
 5102,Molveno Deposito,,46.149626,10.980086
 5103,Levico T. Polo Scolastico,,46.013611,11.306300
 5111,Loc. Coveli Civ. 35,,46.197724,11.143660
@@ -2300,6 +2306,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 5139,Masi di Cavedine Sotto Civ. 6,,45.966510,10.973483
 5141,Coredo Via Zambaroni 12,,46.349177,11.088842
 5144,Torchio Bivio Cogatti,,46.091010,11.196994
+5147,Portolo-Via San Tomaso,,46.305004,11.056616
 5150,Campitello Hotel Salvan,,46.474285,11.738380
 5162,Cire' Via Al Dos De La Roda 12,,46.074601,11.211551
 5165,Calavino-Via Battisti Civ 20,,46.040787,10.982034
@@ -2339,6 +2346,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 5302,Stenico-Loc. Ca' Bianca,,46.052009,10.871109
 5352,Castello-Bivio di Stavel,,46.321463,10.782423
 5353,Ronzo Chienis-V.Pra Da Le Rì,,45.891098,10.949606
+5369,Lasino Sp 84 Viale San Pietro,,46.020354,10.982117
 5375,Fai Paganella,,46.175418,11.068633
 5385,Manzano-Bivio,,45.864542,10.950121
 5392,Pian Del Gac Civ. 25,,46.133573,11.205898
@@ -2358,7 +2366,18 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 5464,Loc. Giare,,46.319956,10.819227
 5466,Taio Via Roma,,46.313915,11.070562
 5470,Regnana Alta,,46.151194,11.310710
+5472,Sporminore Civ. 86,,46.238268,11.027413
+5473,Sanzeno Civ. 61,,46.368681,11.078431
 5475,Rovereto-Via Savioli,,45.892086,11.037432
 5479,Claiano Nord-Sp 140,,46.316343,10.773087
 5483,Mattarello-Via Catoni,,46.003128,11.126824
 5484,Mattarello-Ex St.Vestimenta,,46.000537,11.126173
+5489,Nogarè-Via Pinetana 2/A,,46.100574,11.212098
+5491,Tassullo Strada Quattro Ville,,46.339776,11.052385
+5492,Santa Croce Sp 5 Diram.Bivedo,,46.024475,10.836250
+5494,Foppiano-Piazzale Chiesa,,45.840857,11.062823
+5594,Mori Via Del Garda. 63,,45.851453,10.972499
+5604,Coredo "Rotatoria",,46.347618,11.081570
+5606,Dimaro-Via Campiglio,,46.322945,10.875393
+5608,Feltre-Via Rizzarda Civ. 16,,46.020977,11.900702
+5609,Borgo Centro-Bocciodromo,,46.051717,11.454155

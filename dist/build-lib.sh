@@ -1,5 +1,5 @@
 
-LIB_VERSION="sasabus-backend-gt-lib-1.0."$(date '+%Y%m%d')".jar"
+LIB_VERSION="sasabus-backend-gteu-lib-1.0."$(date '+%Y%m%d')".jar"
 
 cd $(dirname "$0")
 DIST_DIR=$(pwd -P)

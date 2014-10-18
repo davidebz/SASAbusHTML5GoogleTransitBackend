@@ -25,7 +25,6 @@
 108,12,512,Borgo Valsugana-Arten-Feltre,3
 110,12,301,Trento-Besenello-Calliano-Rovereto,3
 112,12,503,Fiera di Primiero-Passo Cereda-Mis-Sagron,3
-113,12,543,Agordo-Mis-Fiera di Primiero-Siror,3
 116,12,506,Fiera di Primiero-Imer-Canal S.Bovo-Caoria,3
 117,12,112,Cavalese - Daiano - Varena,3
 120,12,103,Trento - Civezzano - Sover - Cavalese,3
@@ -71,7 +70,7 @@
 311,12,511,Siror - Fiera di Primiero - Imer - Masi Imer,3
 316,12,123,Moena-Passo  S.Pellegrino-Falcade,3
 320,12,217,Tione - Tione Ospedale Civile,3
-322,12,218,Vigo Cavedine - Masi,3
+322,12,218,Vigo Cavedine - Masi di Vigo Cavedine,3
 324,12,640,Malè - Rabbi Bagni - Somrabbi,3
 326,12,642,Malè - Folgarida - Madonna di Campiglio,3
 328,12,644,Pellizzano - Menas,3
@@ -99,6 +98,7 @@
 417,12,863,Linea 3 integrata:Nago-Torbole-Riva-Arco-Bolognano,3
 420,12,861,Linea 1: Riva -Varone -Arco -S.Giorgio-Brione-Riva,3
 423,12,862,Linea 2: Riva-Brione-S.Giorgio-Arco-Varone-Riva,3
+439,12,543,Siror-Fiera di Primiero-Mis-Agordo,3
 446,12,119,Molina-Masi-Cavalese,3
 494,12,403,Trento - Pergine - Baselga di Pinè - Montesover,3
 503,12,335,Rovereto-Ala-Masi d'Avio-Avio-Rovereto,3
@@ -106,6 +106,7 @@
 518,12,752,Servizi Trenitalia -,2
 520,12,401,Trento-Pergine V.-Levico T.-Borgo V.,3
 522,12,405,Borgo V.- Strigno - Castello Tesino,3
+548,12,132,S.Michele-Palù-Verla-Faver-Scancio-Valcava,3
 549,12,461,Linea 1 Pergine Valsugana - Madrano - Nogarè,3
 551,12,462,Linea 2 Pergine-Zivignago-Canezza-Viarago-Serso,3
 552,12,466,Linea 6 Pergine Valsugana-Costasavina-Roncogno,3
@@ -121,4 +122,5 @@
 634,12,332,Rovereto-Mori-Riva-Arco-Bolognano,3
 636,12,231,Tione-Pinzolo-Madonna di C.-C.C.Magno,3
 638,12,140,SAD: Ora-S.Lugano-Castello-Cavalese,3
-640,12,468,Linea 8: Pergine Intermodale-Ospedale Villa Rosa,3
+640,12,468,Linea 8: Pergine I.-Ospedale Villa Rosa-Zivignago,3
+520T,12,401FS, TRENO: Trento-Pergine V.-Levico T.-Borgo V.,2

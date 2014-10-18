@@ -1,5 +1,5 @@
 
-WAR_NAME="backend.war"
+WAR_NAME="backend-eu.war"
 
 cd $(dirname "$0")
 DIST_DIR=$(pwd -P)

@@ -59,20 +59,20 @@ public class GoogleTransitSASAbusDB extends SASAbusDBServerImpl
       loadBusStops(busStopById, new File(dataDir, "stops.txt"), busStationsById);
 
       ArrayList<LatLng> bounds = new ArrayList<LatLng>();
-      loadBounds(bounds, new File(dataDir, "tn_hull.csv"));
-
+      loadBounds(bounds, new File(dataDir, "hull.csv"));
+      /*
       Area tn = new Area(1, "TN", "TN", bounds.toArray(new LatLng[0]));
 
       bounds = new ArrayList<LatLng>();
       loadBounds(bounds, new File(dataDir, "rovereto_hull.csv"));
 
       Area rovereto = new Area(2, "Rovereto", "Rovereto", bounds.toArray(new LatLng[0]));
+      */
+      Area extrau = new Area(3, "Extraurbano", "Extraurbano", bounds.toArray(new LatLng[0]));
 
-      //Area extrau = new Area(3, "Extraurbano", "Extraurbano", new LatLng[0]);
+      Area[] areas = new Area[] { extrau };
 
-      Area[] areas = new Area[] { tn, rovereto };
-
-      loadBusLines(new File(dataDir, "routes.txt"), tn, rovereto);
+      loadBusLines(new File(dataDir, "routes.txt"), extrau, extrau);
 
       //this.loadBusLines(new File(extrauDir, "routes.txt"), extrau);
 
@@ -96,9 +96,16 @@ public class GoogleTransitSASAbusDB extends SASAbusDBServerImpl
          IdentityHashMap<BusStop, Void> areaUniqueBusStops = new IdentityHashMap<BusStop, Void>();
          for (BusLine busLine : area.getBusLines())
          {
+            ArrayList<BusTrip> arrayList = busTripByBusLine.get(busLine.getId());
+
+            if (arrayList == null)
+            {
+               continue;
+            }
+
             IdentityHashMap<BusStop, Void> busLineUniqueBusStops = new IdentityHashMap<BusStop, Void>();
 
-            for (BusTrip busTrip : busTripByBusLine.get(busLine.getId()))
+            for (BusTrip busTrip : arrayList)
             {
                ArrayList<BusTripStop> busTripStopList = new ArrayList<BusTripStop>();
 
@@ -236,6 +243,10 @@ public class GoogleTransitSASAbusDB extends SASAbusDBServerImpl
             tripIdString2Int.put(row[2], tmp);
          }
          int id = tmp;
+         if (row[0].equals("520T"))
+         {
+            continue;
+         }
          int busLineId = Integer.parseInt(row[0]);
          BusTrip busTrip = new BusTrip(id, new GoogleTransitIsRunningDay(row[1], calendars), busLineId);
          ArrayList<BusTrip> list = busTripByBusLine.get(busLineId);
@@ -255,6 +266,10 @@ public class GoogleTransitSASAbusDB extends SASAbusDBServerImpl
       for (int i = 1; i < csvData.size(); i++)
       {
          String[] row = csvData.get(i);
+         if (row[0].equals("520T"))
+         {
+            continue;
+         }
          int busLineId = Integer.parseInt(row[0]);
          Area area = tn;
          switch (busLineId)

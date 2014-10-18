@@ -35,8 +35,7 @@ public class GoogleTransitBackendServlet extends SASAbusDB2JSONPServlet
       try
       {
 
-         File dataDir = new File(config.getServletContext().getRealPath("/WEB-INF/data/"));
-         //File extrauDir = new File(config.getServletContext().getRealPath("/WEB-INF/data-extrau/"));
+         File dataDir = new File(config.getServletContext().getRealPath("/WEB-INF/data-extrau/"));
 
          GoogleTransitSASAbusDB sasabusDB = GoogleTransitSASAbusDB.loadGTData(dataDir);
 
